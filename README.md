@@ -6,7 +6,7 @@
 https://github.com/blueimp/jQuery-File-Upload
 
 ##配置
-在qiniu文件中配置
+在qiniu.php文件中配置
 
 ```javascipt
 $Conf = array(
