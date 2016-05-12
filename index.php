@@ -1,10 +1,10 @@
 <?php
 /*
  * jQuery File Upload Plugin PHP Example for Qiniu
- * https://github.com/blueimp/jQuery-File-Upload
+ * https://github.com/tyaqing/jQuery-File-Upload-Qiniu
  *
  * Copyright 2012, Roberto Colonello
- * http://www.parsec.it
+ * http://www.yqapi.com
  *
  * Licensed under the MIT license:
  * http://www.opensource.org/licenses/MIT
